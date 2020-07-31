@@ -11,6 +11,7 @@ tags:
 ### For the idea, feasibility means that your project can be enabled by technology or optimized by technology, potential means that your project must be scalable and become big. When it comes to you, we want to help people who really want to start an entrepreneurial project thus once we make you an offer today you will need to accept or decline it today. We have options to help you if you’re on a really tight budget such as financing options or a simple one-time fee product to start that we call an MVP-A.
 #
 ## **Who are we?**
+
 ### group of students
 ### Why starting?
    :PROPERTIES:

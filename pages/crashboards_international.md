@@ -21,8 +21,6 @@ tags:
 #### 2. way to earn a buck somewhere or the other
 #### 3. we have always wanted to open a business in one form or the other since mid last year
 ## **What do we offer?**
-### IGCSE
-### IB
 ### short courses
 #### duration?
 ##### varied. Depends on tutor.
@@ -30,6 +28,10 @@ tags:
 ### Whom do we hire?
 #### all the types
 #### mainly un-proffesional ^^_find a new word, lol_^^
+### IB
+### IGCSE
+
+
 ## **Purpose + philosophy**
 ### our two objectives
 #
@@ -46,8 +48,9 @@ ng
 ng
 ### Get from notion page
 ### the introduction of CrashTal
-## **What do we want from you?**
-### we need website. we need it fast
+## **What do we want from yo
+### for all of this we need website. we need it fast.
+fast
 ### "optimised" and "enabled" by technology
 ## **Future?**
 ure?
